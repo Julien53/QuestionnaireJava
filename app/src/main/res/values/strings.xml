@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tp3SQLite</string>
+    <string name="greet">Bonjour, quel est votre nom ?</string>
+    <string name="answer1">Answer1</string>
+    <string name="answer2">Answer2</string>
+    <string name="answer3">Answer3</string>
+    <string name="answer4">Answer4</string>
+    <string name="welcome_back_with_score">Re-bonjour, %s!\nVotre dernier pointage était de %d, pouvez-vous faire mieux ?</string>
+    <string name="welcome_back">Bon retour, %s!</string>
+</resources>
